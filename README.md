@@ -1,2 +1,3 @@
 # gitea-issues-manager-rcl
-Created with CodeSandbox
+
+A React Component Library for managing Gitea Issues.

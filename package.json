@@ -1,6 +1,6 @@
 {
 	"name": "gitea-issues-manager-rcl",
-	"description": "React Component Library for managing Gitea Issues.",
+	"description": "",
 	"version": "0.0.1",
 	"private": true,
 	"homepage": "https://github.com/abelpz/gitea-issues-manager-rcl",
@@ -24,18 +24,18 @@
 		"react-dom": "^17.x"
 	},
 	"devDependencies": {
-		"babel-core": "^6.26.0",
-		"babel-loader": "^7.1.4",
-		"babel-preset-env": "^1.6.1",
-		"babel-preset-react": "^6.24.1",
-		"babel-preset-stage-0": "^6.24.1",
-		"css-loader": "^2.1.1",
-		"prop-types": "^15.6.1",
-		"react": "^16.8.6",
-		"react-dom": "^16.8.6",
-		"react-styleguidist": "^9.0.8",
-		"style-loader": "^0.23.1",
-		"webpack": "^4.30.0"
+		"css-loader": "^6.6.0",
+		"prop-types": "^15.8.1",
+		"react": "17.0.2",
+		"react-dom": "17.0.2",
+		"react-styleguidist": "^11.2.0",
+		"style-loader": "^3.3.1",
+		"@babel/cli": "7.17.6",
+		"@babel/core": "7.17.5",
+		"@babel/preset-env": "7.16.11",
+		"@babel/preset-react": "7.16.7",
+		"babel-loader": "8.2.3",
+		"webpack": "^5.69.1"
 	},
 	"dependencies": {
 		"dcs-js": "1.0.2"
